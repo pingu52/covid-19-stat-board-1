@@ -1,0 +1,28 @@
+* {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+h6{
+    font-size: 13px;
+    color: grey;
+}
+td,th{
+    padding: 10px;
+    text-align: center;
+    height: 25px;
+    border: 1px solid gray;
+}
+
+table{
+    
+    border-collapse: collapse;
+}
+
+
+.mtd{
+    color: red;
+}
